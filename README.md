@@ -14,7 +14,9 @@ Nesta primeira parte, vamos focar principalmente nas tarefas de limpeza e transf
 
 Utilizando a <b>normalização min-max</b>, que é dada pela fórmula:<br />
 <b>v′=v−minA / maxA−minA(nmaxA−nminA)+nminA</b><br />
+
 Outra técnica usada foi a <b>discretização</b> dos dados.<br />
+
 Após a discretização dos dados, foi feito o processo de <b>binarização.</b>
 
 <b>Parte 2 - Iris</b><br />
@@ -24,4 +26,4 @@ Descrição dos Dados: [archive.ics.uci.edu](http://archive.ics.uci.edu/ml/datas
 
 Os dados estarão disponíveis no arquivo iris.csv
 
-Para este exercícios utilizaremos a biblioteca pandas para a leitura e manipulação dos dados. Para o trabalho de redução de dimensionalidade com PCA utilizaremos a implementação disponibilizada pelo Scikit-Learn
+Para este exercícios utilizaremos a biblioteca pandas para a leitura e manipulação dos dados. Para o trabalho de redução de dimensionalidade com PCA utilizaremos a implementação disponibilizada pelo [Scikit-Learn](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
