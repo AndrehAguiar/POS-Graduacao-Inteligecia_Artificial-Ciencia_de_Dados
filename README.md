@@ -17,4 +17,11 @@ Utilizando a <b>normalização min-max</b>, que é dada pela fórmula:<br />
 Outra técnica usada foi a <b>discretização</b> dos dados.<br />
 Após a discretização dos dados, foi feito o processo de <b>binarização.</b>
 
+<b>Parte 2 - Iris</b><br />
+Nesta parte, foi utilizados dados sobre a classificação de plantas Iris a partir de suas características.
 
+Descrição dos Dados: [archive.ics.uci.edu](http://archive.ics.uci.edu/ml/datasets/Iris)
+
+Os dados estarão disponíveis no arquivo iris.csv
+
+Para este exercícios utilizaremos a biblioteca pandas para a leitura e manipulação dos dados. Para o trabalho de redução de dimensionalidade com PCA utilizaremos a implementação disponibilizada pelo Scikit-Learn
