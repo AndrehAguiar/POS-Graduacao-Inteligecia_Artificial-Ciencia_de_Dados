@@ -10,7 +10,7 @@
 
 # Pré-processamento de dados
 <b>Parte 1 - Titanic</b>
-Nesta primeira parte, vamos focar principalmente nas tarefas de limpeza e transformação de dados. Vamos utilizar novamente os dados dos passageiros do Titanic que estão disponíveis no arquivo titanic_data.csv.
+Nesta primeira parte, vamos focar principalmente nas tarefas de limpeza e transformação de dados. Vamos utilizar novamente os dados dos passageiros do Titanic que estão disponíveis no arquivo titanic_data.csv.<br />
 
 Utilizando a normalização min-max, que é dada pela fórmula:
 <big>v′=v−minAmaxA−minA(nmaxA−nminA)+nminA</big>
