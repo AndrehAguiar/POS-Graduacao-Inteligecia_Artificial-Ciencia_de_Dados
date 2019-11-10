@@ -27,3 +27,15 @@ Descrição dos Dados: [archive.ics.uci.edu](http://archive.ics.uci.edu/ml/datas
 Os dados estarão disponíveis no arquivo iris.csv
 
 Para este exercícios utilizaremos a biblioteca pandas para a leitura e manipulação dos dados. Para o trabalho de redução de dimensionalidade com PCA utilizaremos a implementação disponibilizada pelo [Scikit-Learn](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
+
+# Projeto #1 - Análise Exploratória de Dados
+
+## Introdução
+
+As bases de dados em seu estado puro usualmente não estão prontas para serem trabalhadas. Isso torna a tarefa de explorar dados algo recorrente no dia a dia de um cientista de dados.
+
+Nessa atividade o profissional busca remover dados inconsistentes da base, com valores fora do domínio ou do interesse. Por exemplo removendo registros com valores não preenchidos, ou segmentando a base por um determinado critério. Também se busca entender como esse dado está organizado e como as diversas variáveis existes se relacionam.
+
+## Objetivo
+
+O objetivo desse projeto é realizar uma análise exploratória de dados sobre uma base de interesse, que esteja de acordo com os critérios definidos. Recomendamos a escolha de uma base do [Kaggle](https://www.kaggle.com/) em um tema de interesse ou que você tenha conhecimento sobre, isso facilita muito o processo de investigação.
