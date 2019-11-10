@@ -13,7 +13,7 @@
 Nesta primeira parte, vamos focar principalmente nas tarefas de limpeza e transformação de dados. Vamos utilizar novamente os dados dos passageiros do Titanic que estão disponíveis no arquivo titanic_data.csv.<br />
 
 Utilizando a <b>normalização min-max</b>, que é dada pela fórmula:<br />
-<b>v′=v−minA / maxA−minA(nmaxA−nminA)+nminA</b><br />
+<b>v′=v−minA / maxA−minA(nmaxA−ⁿminA)+ⁿminA</b><br />
 
 Outra técnica usada foi a <b>discretização</b> dos dados.<br />
 
