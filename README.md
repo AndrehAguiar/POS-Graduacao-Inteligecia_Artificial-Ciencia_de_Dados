@@ -1,4 +1,4 @@
-# Lista-1_POS-AI_SD
+# Lista-1_POS-AI_DS
 <b>Lista de exercícios PYTHON</b>
 <ol>
   <li>Operadores aritiméticos</li>
