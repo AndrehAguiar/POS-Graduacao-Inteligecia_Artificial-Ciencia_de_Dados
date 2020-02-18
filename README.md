@@ -43,8 +43,6 @@ O objetivo desse projeto é realizar uma análise exploratória de dados sobre u
 
 # Projeto #2 - Classificador Supervisionado
 
-## Prazo - **05/03/2020**
-
 ## Introdução
 
 Umas das tarefas mais recorrentes na vida de um engenheiro de aprendizado de máquina é a implementação de classificadores. Essas soluções, tem como objetivo categorizar elementos em uma base de dados, dado as características dos mesmos.
@@ -54,3 +52,10 @@ Em sala vimos diversas técnicas para implementação de classificadores, nesse 
 ## Objetivo
 
 O objetivo desse projeto é implementar e avaliar o comportamento dos algoritmos de classificaçao.
+
+# Redes Neurais
+
+## Redes_Neurais_Deteccao_de_Faces.ipynb
+## Reconhece_Face_Video.ipynb
+
+Neste exercício foi utilizado o OpenCV juntamente com o modelo Haar Cascade "haarcascade_frontalface_default.xml", disponível em [Kaggle](https://www.kaggle.com/lalitharajesh/haarcascades#haarcascade_frontalface_default.xml).
