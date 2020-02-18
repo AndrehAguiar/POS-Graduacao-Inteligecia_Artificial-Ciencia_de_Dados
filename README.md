@@ -40,3 +40,17 @@ Nessa atividade o profissional busca remover dados inconsistentes da base, com v
 ## Objetivo
 
 O objetivo desse projeto é realizar uma análise exploratória de dados sobre uma base de interesse, que esteja de acordo com os critérios definidos. Recomendamos a escolha de uma base do [Kaggle](https://www.kaggle.com/) em um tema de interesse ou que você tenha conhecimento sobre, isso facilita muito o processo de investigação.
+
+# Projeto #2 - Classificador Supervisionado
+
+## Prazo - **05/03/2020**
+
+## Introdução
+
+Umas das tarefas mais recorrentes na vida de um engenheiro de aprendizado de máquina é a implementação de classificadores. Essas soluções, tem como objetivo categorizar elementos em uma base de dados, dado as características dos mesmos.
+
+Em sala vimos diversas técnicas para implementação de classificadores, nesse projeto nosso objetivo é implementar e comparar classificadores em diferentes situações.
+
+## Objetivo
+
+O objetivo desse projeto é implementar e avaliar o comportamento dos algoritmos de classificaçao.
