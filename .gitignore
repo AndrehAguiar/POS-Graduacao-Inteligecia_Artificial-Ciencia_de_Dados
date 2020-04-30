@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 /.vs/
 /.idea/
 /class_dash_completed/
 /env_dash/
 /app_kmeans_image_segmentation.py
 /graphics.py
+=======
+projeto_1/.ipynb_checkpoints/template-checkpoint.ipynb
+.vscode
+>>>>>>> Atualiza 30-04
