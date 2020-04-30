@@ -1,61 +1,43 @@
-# Lista-1_POS-AI_DS
-<b>Lista de exercícios PYTHON</b>
-<ol>
-  <li>Operadores aritiméticos</li>
-  <li>Operadores Relacionais</li>
-  <li>Condicionantes</li>
-  <li>Listas / Tuplas</li>
-  <li>Formatação de strings</li>
- </ol>
+# Pós Graduação em Ciência de Dados e Inteligência Artificial
 
-# Pré-processamento de dados
-## Parte 1 - Titanic
-Nesta primeira parte, vamos focar principalmente nas tarefas de limpeza e transformação de dados. Vamos utilizar novamente os dados dos passageiros do Titanic que estão disponíveis no arquivo titanic_data.csv.<br />
+Bem vindo ao curso de Pós Graduação em Ciência de Dados e Inteligência Artificial da Unibh em parceria com a Hop e IBM.
 
-Utilizando a <b>normalização min-max</b>, que é dada pela fórmula:<br />
-<b>v′=v−minA / maxA−minA(ⁿmaxA−ⁿminA)+ⁿminA</b><br />
-ⁿ(0,1) => ⁿminA = 0 => ⁿmaxA = 1
+Nesse repositório você encontrará informações gerais do curso, os projetos e aulas práticas.
 
-Outra técnica usada foi a <b>discretização</b> dos dados.<br />
+## Aulas
+https://drive.google.com/drive/folders/1hBK50X5JGWaHIiIXG6-8CJUJ4_-UgRbx
 
-Após a discretização dos dados, foi feito o processo de <b>binarização.</b>
+## Submissão de trabalhos
+https://docs.google.com/spreadsheets/d/1Dpixkql1HXcrpqr6k0wb-1K7qLUMg2uAAQt5Iix3yec/edit#gid=0
 
-## Parte 2 - Iris
-Nesta parte, foi utilizados dados sobre a classificação de plantas Iris a partir de suas características.
+## Calendário 2019/2 e 2020/1
 
-Descrição dos Dados: [archive.ics.uci.edu](http://archive.ics.uci.edu/ml/datasets/Iris)
+- 22/10 – Boas vindas e Projeto #1
+- 24/10 à 05/11 – Ferramentas básicas para DS/AI
+- 07/11 à 14/11 – Introdução a Aprendizado de Máquina
+- 19/11 – Estatística Aplicada
+- 21/11 à 17/12 – Aprendizado Supervisionado
+- 04/02 à 11/02 – Aprendizado Supervisionado
+- 13/02 à 03/03 – Validação de modelos
+- 05/03 à 12/03 – Problemas e soluções comuns
 
-Os dados estarão disponíveis no arquivo iris.csv
 
-Para este exercícios utilizaremos a biblioteca pandas para a leitura e manipulação dos dados. Para o trabalho de redução de dimensionalidade com PCA utilizaremos a implementação disponibilizada pelo [Scikit-Learn](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
+## Marcos importantes
 
-# Projeto #1 - Análise Exploratória de Dados
+- 22/10 – Início Projeto #1
+- 05/12 – Entrega Projeto #1
+- 12/12 – Início Projeto #2
+- 06/02 – Aula convidado
+- 10/03 – Entrega Projeto #2
+- 12/03 – Fim do primeiro módulo
 
-## Introdução
+## Corpo Docente
 
-As bases de dados em seu estado puro usualmente não estão prontas para serem trabalhadas. Isso torna a tarefa de explorar dados algo recorrente no dia a dia de um cientista de dados.
-
-Nessa atividade o profissional busca remover dados inconsistentes da base, com valores fora do domínio ou do interesse. Por exemplo removendo registros com valores não preenchidos, ou segmentando a base por um determinado critério. Também se busca entender como esse dado está organizado e como as diversas variáveis existes se relacionam.
-
-## Objetivo
-
-O objetivo desse projeto é realizar uma análise exploratória de dados sobre uma base de interesse, que esteja de acordo com os critérios definidos. Recomendamos a escolha de uma base do [Kaggle](https://www.kaggle.com/) em um tema de interesse ou que você tenha conhecimento sobre, isso facilita muito o processo de investigação.
-
-# Projeto #2 - Classificador Supervisionado
-
-## Introdução
-
-Umas das tarefas mais recorrentes na vida de um engenheiro de aprendizado de máquina é a implementação de classificadores. Essas soluções, tem como objetivo categorizar elementos em uma base de dados, dado as características dos mesmos.
-
-Em sala vimos diversas técnicas para implementação de classificadores, nesse projeto nosso objetivo é implementar e comparar classificadores em diferentes situações.
-
-## Objetivo
-
-O objetivo desse projeto é implementar e avaliar o comportamento dos algoritmos de classificaçao.
-
-# Redes Neurais
-
-## Redes_Neurais_Deteccao_de_Faces.ipynb
-## Reconhece_Face_Video.ipynb
-
-Neste exercício foi utilizado o OpenCV juntamente com o modelo Haar Cascade "haarcascade_frontalface_default.xml", disponível em [Kaggle](https://www.kaggle.com/lalitharajesh/haarcascades#haarcascade_frontalface_default.xml).
+- Tiago Moura
+- Roberto Nalon
+- Felipe Leandro
+- Dario Reyes
+- José Humberto Cruvinel
+- Pedro Magalhães
+- Matheus Araújo
+- Matheus Mendonça
