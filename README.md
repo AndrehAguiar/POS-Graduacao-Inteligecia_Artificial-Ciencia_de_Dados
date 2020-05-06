@@ -1,4 +1,4 @@
-# POS Graduacao - Inteligecia Artificial e Ciencia de Dados
+# POS Graduacao - Inteligêcia Artificial e Ciência de Dados
 Lista de exercícios PYTHON
 ## Matheus Mendonça
 Professor
