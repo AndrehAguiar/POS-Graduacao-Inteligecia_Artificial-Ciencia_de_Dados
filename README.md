@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pós Graduação em Ciência de Dados e Inteligência Artificial
 
 Bem vindo ao curso de Pós Graduação em Ciência de Dados e Inteligência Artificial da Unibh em parceria com a Hop e IBM.
@@ -41,3 +42,9 @@ https://docs.google.com/spreadsheets/d/1Dpixkql1HXcrpqr6k0wb-1K7qLUMg2uAAQt5Iix3
 - Pedro Magalhães
 - Matheus Araújo
 - Matheus Mendonça
+=======
+# PÓS-Graduacao - Inteligêcia Artificial e Ciência de Dados
+Lista de exercícios PYTHON
+## Matheus Mendonça
+Professor
+>>>>>>> 24061a7622c62c6a9bb3acc6b3fd1f1ff517172b
