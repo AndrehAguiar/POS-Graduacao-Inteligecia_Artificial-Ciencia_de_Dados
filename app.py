@@ -18,13 +18,14 @@ from dash.dependencies import Input, Output, State
 from plotly import express as px
 from sklearn.cluster import KMeans
 
-df = pd.read_csv("../data/gapminderDataFiveYear.csv")
+df = pd.read_csv("data/gapminderDataFiveYear.csv")
 
 # stylesheet
 # external_stylesheets = ["assets/bWLwgP.assets"]
 
 # intanciar o server
 app = dash.Dash(__name__)
+server = app.server
 
 # definindo cores
 colors = {'background': '#282b38',
