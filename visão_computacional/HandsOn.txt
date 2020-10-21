@@ -1,0 +1,31 @@
+Detecção de pessoas suspeitas
+Características de imagem: Momentos, Retângulo envolvente
+Problemas / Dificuldades na implementação: Classificação de falso positivo, ex.: Alguém tem um movimento brusco para auxiliar outra pessoa.
+
+Reconhecimento de Iris:
+Características de imagem: Contorno, Área, Perímetro, Raios, Elípse ajustada
+Problemas / Dificuldades na implementação: Bio reconhecimento, verificar se é uma íris ou uma foto.
+
+Detecção de violação de cerca virtual:
+Características de imagem: Área, Perímetro, Retângulo envolvente
+Problemas / Dificuldades na implementação: Classificação de falso positivo, ex.: identificar se de fato é alguma pessoa ou um carrinho de mão deixado
+
+Classificação de produtos defeituosos:
+Características de imagem: Rugosidade, Cor, Textura
+Problemas / Dificuldades na implementação: Iluminação
+
+Identificação de produtos em uma prateleira:
+Características de imagem: Contorno, Retângulo envolvente , Aspecto, Excentricidade
+Problemas / Dificuldades na implementação: Padronização da organização dos produtos
+
+Identificação de áreas queimadas ou desmatamento a partir de fotos aéreas:
+Características de imagem: Aspécto, Raios, Perímetro
+Problemas / Dificuldades na implementação: Distorção dos pixels, pela distância da foto, somente areas consideráveis são bem identificáveis.
+
+Identificação de tumores a partir de exames (tomografia):
+Características de imagem: Aspecto, Formas dimensionais
+Problemas / Dificuldades na implementação: Qualidade da imagem, tamanho ideal para processamento.
+
+Identificação e classificação de tipos de documentos em PDFs:
+Características de imagem: Orientação, Contornos
+Problemas / Dificuldades na implementação: Padronização dos documentos
